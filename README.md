@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### BEM VINDO AO PERFIL DO BRUNIN DA 160 👋
 <!--
 **bruninda160/bruninda160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
